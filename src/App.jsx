@@ -30,7 +30,7 @@ const App = () => {
           />
         </div>
 
-        {/* ✅ REQUIRED BY CYPRESS */}
+        
         <div className="output" style={{ marginTop: "20px" }}>
           <p><strong>Current values in store:</strong></p>
           <p>Name - {name}</p>
